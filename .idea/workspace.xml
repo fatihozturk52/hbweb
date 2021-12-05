@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d8cb237-bb19-4e14-8ca5-9939f406cd60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/hepsiburadaPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/hepsiburadaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/basePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/basePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/loginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/loginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/baseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/baseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Utility/OptionsManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utility/OptionsManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webUIProject.iml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Fatih\Desktop\hepsiburada\webUIProject\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="21p8n1xJ6tbgnHoAvH4COE7zmCE" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Api test/RestAssuredExampleProject" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fatih\Desktop\hepsiburada\webUIProject" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.hepsiburadaTest">
+    <configuration name="hepsiburadaTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webUIProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.hepsiburadaTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hepsiburadaTest.hepsiburadaTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webUIProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.hepsiburadaTest" />
+      <option name="METHOD_NAME" value="hepsiburadaTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hepsiburadaTest.hepsiburadaTestNonLogin (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webUIProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.hepsiburadaTest" />
+      <option name="METHOD_NAME" value="hepsiburadaTestNonLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hepsiburadaTest.hepsiburadaTestNonLogin (5)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webUIProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.hepsiburadaTest" />
+      <option name="METHOD_NAME" value="hepsiburadaTestNonLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hepsiburadaTest.hepsiburadaTestNonLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webUIProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.hepsiburadaTest" />
+      <option name="METHOD_NAME" value="hepsiburadaTestNonLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.hepsiburadaTest" />
+        <item itemvalue="TestNG.hepsiburadaTest.hepsiburadaTest" />
+        <item itemvalue="TestNG.hepsiburadaTest.hepsiburadaTestNonLogin" />
+        <item itemvalue="TestNG.hepsiburadaTest.hepsiburadaTestNonLogin (3)" />
+        <item itemvalue="TestNG.hepsiburadaTest.hepsiburadaTestNonLogin (5)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d8cb237-bb19-4e14-8ca5-9939f406cd60" name="Default Changelist" comment="" />
+      <created>1638626831139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638626831139</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
